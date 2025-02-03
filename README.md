@@ -1,7 +1,6 @@
 # Introduction
 
-MetaheuristicAlgorithmsResearch is a project focused on analyzing three metaheuristic optimization algorithms namely AntLion, HoneyBadger and Genetic Algorithm and then implementing the novel Hybridisation of HoneyBadger algorithm with Genetic algorithm in order to reduce 
-the makespan time in task scheduling using Jupyter Notebooks and Python. The repository includes algorithm implementations, step-by-step explanations, experimental results, and result analysis.
+MetaheuristicAlgorithmsResearch is a project focused on analyzing three metaheuristic optimization algorithms namely AntLion, HoneyBadger and Genetic Algorithm and then implementing the novel Hybridisation of HoneyBadger algorithm with Genetic algorithm in order to reduce the makespan time for efficient task scheduling using Jupyter Notebooks and Python. The repository includes algorithm implementations, step-by-step explanations, experimental results, and result analysis.
 
 # Technologies Used
 
@@ -43,17 +42,17 @@ Required Python libraries: NumPy, Pandas, Matplotlib
 
 # Steps to Install and Run
 
-1. Clone the Repository
+Clone the Repository
 
-git clone  
+git clone https://github.com/priya-bisht23/MetaheuristicAlgorithmsResearch.git
 
 cd MetaheuristicAlgorithmsResearch
 
-2. Install Dependencies
+Install Dependencies
 
 pip install -r requirements.txt
 
-3. Run Jupyter Notebook
+Run Jupyter Notebook
 
 jupyter notebook
 
