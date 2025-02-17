@@ -54,8 +54,6 @@ pip install -r requirements.txt
 
 Run Jupyter Notebook
 
-jupyter notebook
-
 Open the relevant notebooks inside ALO/, HBA/, or HGA/ and execute them.
 
 # Usage
