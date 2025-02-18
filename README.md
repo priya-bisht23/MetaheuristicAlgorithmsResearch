@@ -30,7 +30,7 @@ design-specs-image/ - Reference images for algorithm designs
 
 # Installation
 
-Prerequisites
+# Prerequisites
 
 Ensure you have the following installed:
 
